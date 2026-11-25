@@ -1,0 +1,13 @@
+# Giờ cao điểm: dùng để so sánh các chiến lược điều phối
+0,passenger,1,70,0,8
+0,passenger,2,60,0,5
+1,passenger,3,75,0,3
+1,passenger,4,68,0,9
+2,passenger,5,72,0,6
+3,passenger,6,64,9,0
+3,passenger,7,80,7,1
+4,passenger,8,55,5,0
+4,passenger,9,90,2,8
+6,passenger,10,62,-1,7
+8,passenger,11,77,4,0
+9,passenger,12,66,6,9
