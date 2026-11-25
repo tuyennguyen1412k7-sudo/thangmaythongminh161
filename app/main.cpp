@@ -1,3 +1,4 @@
+#include <windows.h>
 #include <fstream>
 #include <functional>
 #include <iostream>
@@ -408,6 +409,7 @@ void mainMenu(const SystemConfig& cfg, const std::string& dir) {
 }
 
 int main(int argc, char** argv) {
+    
     std::string dir = "data";
     bool demoOnly = false;
 
