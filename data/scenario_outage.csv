@@ -1,0 +1,6 @@
+# Sự cố: thang 1 hỏng khi đang chở khách, yêu cầu được phân lại cho thang khác
+0,passenger,1,70,0,8
+0,passenger,2,65,1,6
+2,passenger,3,60,3,0
+4,outofservice,1
+14,restore,1
